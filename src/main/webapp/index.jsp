@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+<%@ page language="java" contentType="text1/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
@@ -14,7 +14,7 @@
 		<br />
 		<br /> <select name="operations">
 			<option value="add" selected="selected">Add</option>
-			<option value="sub">Sub</option>
+			<option value="sub">sub</option>
 			<option value="mul">Mul</option>
 			<option value="div">Div</option>
 		</select> <br> <input type="submit" value="Go">
